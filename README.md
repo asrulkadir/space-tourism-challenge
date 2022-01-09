@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/asrulkadir/space-tourism-challenge)
-- Live Site URL: [Add live site URL here](https://space-tourim-asrulkadir.netlify.app)
+- Solution URL: [Solution URL](https://github.com/asrulkadir/space-tourism-challenge)
+- Live Site URL: [Live Site URL](https://space-tourim-asrulkadir.netlify.app)
 
 ## My process
 
