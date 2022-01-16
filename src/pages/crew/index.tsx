@@ -170,12 +170,12 @@ const Crew = () => {
   }
 
   function handleTouchEnd() {
-    if (touchStart - touchEnd > 150) {
+    if (touchStart - touchEnd > 50) {
       // do your stuff here for left swipe
       moveSliderRight();
     }
 
-    if (touchStart - touchEnd < -150) {
+    if (touchStart - touchEnd < -50) {
       // do your stuff here for right swipe
       moveSliderLeft();
     }
